@@ -1,0 +1,8 @@
+const FEEDBACK_CONSTANT = {
+  FEEDBACK_FILE_NAME: "feedback.json",
+  USER_FILE_NAME: "user.json",
+  HASH_KEY: "FEEDBACK_APPLICATION_SECRET_KEY",
+  HASH_SAULT_ROUND: 10,
+};
+
+module.exports = FEEDBACK_CONSTANT;
