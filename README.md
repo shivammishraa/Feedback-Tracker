@@ -59,4 +59,8 @@ Clean layout with modern UI and great UX
 
 🖼️ UI Snapshot:
 
+<img width="1902" height="972" alt="image" src="https://github.com/user-attachments/assets/915aa6e6-7bf3-403d-b276-38e62d047a2f" />
+
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/3895bf57-c912-49b2-9c4e-56c3d97b00c1" />
+
 <img width="460" height="789" alt="image" src="https://github.com/user-attachments/assets/551abbfe-683c-4d87-a94a-ab38ace5263c" />
