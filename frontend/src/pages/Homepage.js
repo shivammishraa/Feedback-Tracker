@@ -59,7 +59,7 @@ export default function Homepage({ user, setUser }) {
           <div className="flex items-center gap-3 text-indigo-600">
             <FaComments size={28} />
             <h1 className="text-4xl font-extrabold tracking-wide">
-              Feedback Tracker
+              HDFC Life Feedback Tracker
             </h1>
           </div>
           <div className="flex items-center gap-4">
